@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BaboParrot
-- 👀 I’m interested in making websites using python and making random projects
+- 👀 I’m interested in making websites using python
 - 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
