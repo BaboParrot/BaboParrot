@@ -1,2 +1,1 @@
-oh god idk what to write here
-okay umm whats up folks
+Always ready to learn and try out more! Dont always publish what i make on github.
